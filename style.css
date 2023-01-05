@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+
+.Bulbassauro-card{
+    margin: 10%;
+    display: flex;
+    width: 27.5rem;
+    height: 13.125rem;
+    border-radius: 8px;
+    background-color: #729F92;
+    color: white;
+    position: relative;
+
+}
+
+.Bulbassauro{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    margin-top: 43%;
+}
+
+.info{
+    margin-top: 5%;
+    margin-left: 5%;
+    flex-direction: column;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.itens{
+    margin-top: 5%;
+    width: 200px;
+    flex-direction: row;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    justify-content: start;
+}
+
+.Bulbassauro{
+    margin-bottom: 8%;
+    margin-left: 3%;
+}
+
+.botao{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-radius: 8px;
+    width: 9.125rem;
+    background-color: white;
+    color: black;
+
+}
+
+.fundo{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    position: absolute;
+}
+
